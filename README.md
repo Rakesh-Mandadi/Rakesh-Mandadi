@@ -133,7 +133,7 @@ Resume: https://drive.google.com/file/d/1BOqylCzu9KzKU_pVnQ3qowHjpT27qp3_/view?u
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakesh-Mandadi&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rakesh-Mandadi&theme=tokyonight)
 
 ---
 
