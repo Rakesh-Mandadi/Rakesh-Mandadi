@@ -135,9 +135,54 @@ Resume: https://drive.google.com/file/d/1BOqylCzu9KzKU_pVnQ3qowHjpT27qp3_/view?u
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakesh-Mandadi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rakesh-Mandadi&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rakesh-Mandadi&theme=tokyonight)
+# 🚀 Featured Projects
+
+### 📊 Enterprise Meter Management System (MMS)
+
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, REST APIs
+
+Developed a utility metering and billing platform to manage **Water, Gas, and Electricity** consumption across residential communities.
+
+#### Key Features
+- 🔹 Prepaid & Postpaid Billing System
+- 🔹 Real-time Meter Data Management
+- 🔹 PDF Bill Generation
+- 🔹 Role-based Authentication (System Admin, Organization Admin, Sub Admin)
+- 🔹 Payment Gateway Integration
+- 🔹 Optimized SQL Queries & Business Workflows
+
+---
+
+### 🏢 SmartBuild Automation Platform
+
+**Tech Stack:** Java, Spring Boot, React.js, MySQL
+
+Developed an enterprise automation platform for managing construction and facility automation workflows.
+
+#### Key Features
+- 🔹 Modular REST APIs
+- 🔹 User & Role Management
+- 🔹 Real-time Status Dashboards
+- 🔹 Secure Authentication
+- 🔹 Scalable Backend Architecture
+
+---
+
+### 🌱 Nutrient Advisor for Soil Fertilization
+
+**Tech Stack:** Java, Spring Boot
+
+An application that recommends fertilizer nutrients based on crop type and soil conditions.
+
+#### Key Features
+- 🔹 Nutrient Recommendation Engine
+- 🔹 Crop & Soil Analysis
+- 🔹 Farmer-Friendly User Interface
+- 🔹 Backend Calculation Logic
+
+---
 
 ---
 
