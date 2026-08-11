@@ -1,17 +1,144 @@
-<h1 align="center">Hi 👋, I'm Rakesh_Mandadi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rakesh Mandadi</h1>
+<h3 align="center">Full Stack Java Developer | Spring Boot | React.js | REST APIs | MySQL</h3>
 
-- 🌱 I’m currently learning **Java,Web technologies,My SQL**
-
-- 💬 Ask me about **Java,Web technologies,My SQL**
-
-- 📫 How to reach me **inkedin.com/in/ rakesh-mandadi**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F0AEp8FcKTIiYqnDy_YBm6E8FuBBb897/view?usp=sharing](https://drive.google.com/file/d/1F0AEp8FcKTIiYqnDy_YBm6E8FuBBb897/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakesh-mandadi&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Java Developer with **2 years of experience**
+- 🔭 Currently working on **Enterprise Meter Management System (MMS)**
+- 🌱 Learning **Microservices, Docker, Kubernetes and AWS**
+- 💡 Passionate about building scalable backend applications and responsive web applications
+- 💬 Ask me about **Java, Spring Boot, React.js, REST APIs, MySQL, JPA, Hibernate**
+- ⚡ Fun Fact: I enjoy solving backend challenges and learning new technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+</p>
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Maven
+- JWT Authentication
+
+---
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- Axios
+- Material UI
+
+---
+
+### Database
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+</p>
+
+- MySQL
+
+---
+
+### Tools & Technologies
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45"/>
+</p>
+
+- Git & GitHub
+- Postman
+- Docker (Learning)
+- Linux
+- Eclipse
+- VS Code
+
+---
+
+## 💼 Experience
+
+### Full Stack Java Developer
+
+- Developed scalable enterprise applications using **Spring Boot** and **React.js**
+- Built secure REST APIs using Spring Data JPA & Hibernate
+- Worked extensively with **MySQL**
+- Developed Meter Management System (MMS) for Water, Gas & Electricity monitoring
+- Integrated IoT devices and smart meter communication
+- Implemented Authentication & Authorization using JWT
+- Optimized backend performance and database queries
+
+---
+
+## 📚 Currently Learning
+
+- AWS
+- Docker
+- Kubernetes
+- Microservices
+- System Design
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-mandadi-java-developer
+- 📧 Email: rakeshmandadi08@gmail.com
+
+---
+
+## 📄 Resume
+
+Resume: https://drive.google.com/file/d/1BOqylCzu9KzKU_pVnQ3qowHjpT27qp3_/view?usp=drive_link
+
+---
+
+## 📊 GitHub Stats
+
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-mandadi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-mandadi&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-mandadi&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
