@@ -133,11 +133,11 @@ Resume: https://drive.google.com/file/d/1BOqylCzu9KzKU_pVnQ3qowHjpT27qp3_/view?u
 
 ## 📊 GitHub Stats
 
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-mandadi&show_icons=true&theme=tokyonight)
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh-Mandadi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-mandadi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Mandadi&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-mandadi&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-Mandadi&theme=tokyonight)
 
 ---
 
